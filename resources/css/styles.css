@@ -49,6 +49,10 @@ nav ul a {
     color: seashell;
 }
 
+nav ul a:hover, a:active {
+    color: rgb(105, 52, 22);
+}
+
 /* Mission section */
 
 main {
